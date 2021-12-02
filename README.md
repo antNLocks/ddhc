@@ -45,3 +45,4 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 19.** L'article 18 ne doit PAS exister.
 
 Ceci n'est pas un pied de page
+\Ceci n'est pas un pied de page
